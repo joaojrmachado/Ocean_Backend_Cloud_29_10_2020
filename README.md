@@ -1,3 +1,12 @@
+# Trilha Completa
+
+```Trilha Backend Ocean
+1. Introdução ao Backend com NodeJS
+2. Laboratório de Backend com NodeJS
+3. Introdução ao Banco de Dados com MongoDB
+4. Integralizando o Backend na Nuvem
+```
+
 # Configuração de ambiente em Cloud
 
 1. Certifique-se de que possui instalado os seguintes programas:
