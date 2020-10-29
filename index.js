@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 const express = require('express');
 const bodyParser = require('body-parser');
 const mongodb = require('mongodb');
@@ -253,4 +252,3 @@ app.listen(port, function () {
 });
 
 })();
->>>>>>> upstream/main
